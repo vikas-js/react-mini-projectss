@@ -1,0 +1,23 @@
+body{
+  background-color: black;
+  color:rgb(49, 193, 176)
+}
+h1{
+  text-align: center;
+}
+ .container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+
+
+ }
+.card{
+  max-width: 200px;
+  border: 2px solid rgb(112, 43, 43);
+  padding: 20px;
+  border-radius: 5px;
+  margin: 20px;
+  
+}
